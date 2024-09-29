@@ -1,4 +1,4 @@
-# Hangman Game
+<h1 align="center">Task No. 1: Hangman Game</h1>
 
 ## Task Overview
 
