@@ -1,7 +1,5 @@
 <h1 align="center">Task No. 1: Hangman Game</h1>
 
-## Task Overview
-
 This project implements a **text-based Hangman game** as part of a coding task. The game randomly selects a word from a predefined list, and the player must guess one letter at a time to uncover the word. The game provides a limited number of attempts (lives), and after each incorrect guess, the player's remaining lives decrease. If the player runs out of lives, they lose, and the game reveals the word. Otherwise, if the player successfully guesses all the letters in the word, they win.
 
 ### Features
